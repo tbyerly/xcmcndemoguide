@@ -1,0 +1,6 @@
+# AWS Environment
+aws_access_key = "aaaabbbbb"
+aws_secret_key = "aaaabbbbb"
+zone_name      = "example.com"
+api_url        = "https://your_tenant.console.ves.volterra.io/api"
+api_p12_file   = "./path-to-api-cert.p12"
